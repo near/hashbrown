@@ -1,5 +1,5 @@
-hashbrown
-=========
+ hashbrown
+==========
 
 [![Build Status](https://travis-ci.com/rust-lang/hashbrown.svg?branch=master)](https://travis-ci.com/rust-lang/hashbrown)
 [![Crates.io](https://img.shields.io/crates/v/hashbrown.svg)](https://crates.io/crates/hashbrown)
